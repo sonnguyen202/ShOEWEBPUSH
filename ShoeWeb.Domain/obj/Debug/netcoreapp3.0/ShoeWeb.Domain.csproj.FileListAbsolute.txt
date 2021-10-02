@@ -1,0 +1,12 @@
+C:\Users\ADMIN\Source\Repos\ShoeWeb\ShoeWeb\ShoeWeb.Domain\bin\Debug\netcoreapp3.0\ShoeWeb.Domain.deps.json
+C:\Users\ADMIN\Source\Repos\ShoeWeb\ShoeWeb\ShoeWeb.Domain\bin\Debug\netcoreapp3.0\ShoeWeb.Domain.runtimeconfig.json
+C:\Users\ADMIN\Source\Repos\ShoeWeb\ShoeWeb\ShoeWeb.Domain\bin\Debug\netcoreapp3.0\ShoeWeb.Domain.runtimeconfig.dev.json
+C:\Users\ADMIN\Source\Repos\ShoeWeb\ShoeWeb\ShoeWeb.Domain\bin\Debug\netcoreapp3.0\ShoeWeb.Domain.dll
+C:\Users\ADMIN\Source\Repos\ShoeWeb\ShoeWeb\ShoeWeb.Domain\bin\Debug\netcoreapp3.0\ShoeWeb.Domain.pdb
+C:\Users\ADMIN\Source\Repos\ShoeWeb\ShoeWeb\ShoeWeb.Domain\obj\Debug\netcoreapp3.0\ShoeWeb.Domain.csprojAssemblyReference.cache
+C:\Users\ADMIN\Source\Repos\ShoeWeb\ShoeWeb\ShoeWeb.Domain\obj\Debug\netcoreapp3.0\ShoeWeb.Domain.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Source\Repos\ShoeWeb\ShoeWeb\ShoeWeb.Domain\obj\Debug\netcoreapp3.0\ShoeWeb.Domain.AssemblyInfo.cs
+C:\Users\ADMIN\Source\Repos\ShoeWeb\ShoeWeb\ShoeWeb.Domain\obj\Debug\netcoreapp3.0\ShoeWeb.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Source\Repos\ShoeWeb\ShoeWeb\ShoeWeb.Domain\obj\Debug\netcoreapp3.0\ShoeWeb.Domain.dll
+C:\Users\ADMIN\Source\Repos\ShoeWeb\ShoeWeb\ShoeWeb.Domain\obj\Debug\netcoreapp3.0\ShoeWeb.Domain.pdb
+C:\Users\ADMIN\Source\Repos\ShoeWeb\ShoeWeb\ShoeWeb.Domain\obj\Debug\netcoreapp3.0\ShoeWeb.Domain.genruntimeconfig.cache
